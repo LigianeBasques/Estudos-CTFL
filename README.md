@@ -70,7 +70,7 @@ Assim sendo, você fecha seu ciclo de estudos!
 - [x] Gerenciamento de configurações
 - [x] Riscos e testes
 - [x] Gerenciamento de defeitos 
-+ Ferramenta de suporte ao teste
++ **Ferramenta** **de** **suporte** **ao** **teste**
 - [x] Considerações sobre as ferramentas de testes
 - [x] Uso efetivo de ferramentas
   
