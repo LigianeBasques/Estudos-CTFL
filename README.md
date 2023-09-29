@@ -76,7 +76,7 @@ Assim sendo, você fecha seu ciclo de estudos!
 
 ### ✏️Simulado de questões✏️ ###
 
-Simulado em desenvolvimento...em preve postarei aqui no repositório!
+Simulado em desenvolvimento...em breve postarei aqui no repositório!
   
    
 
