@@ -24,3 +24,9 @@ Aplicando o método Pomodoro com um período de estudo de 2 horas, adaptei  os c
  + Estude por 25 minutos, focando intensamente na tarefa em questão;
  + Faça uma pausa de 5 minutos para relaxar, esticar-se, tomar um pouco d'água ou fazer qualquer outra coisa que ajude a recarregar sua energia.
 
+**Ciclo** **2:** **25** **minutos** **de** **estudo** **+** **5** **minutos** **de** **descanso**
+ + Mais 25 minutos de estudo focado;
+ + Outros 5 minutos de pausa para descanso.
+ 
+   
+
