@@ -58,5 +58,11 @@ Assim sendo, você fecha seu ciclo de estudos!
 + **Teste** **estático**
 - [x] Noções básicas
 - [x] Processo de revisão
++ Técnicas de teste
+- [x] Categorias de técnicas de testes
+- [x] Técnicas de teste caixa-preta
+- [x] Técnicas de teste caixa-branca
+- [x] Técnica de testes baseadas na experiência
+  
    
 
