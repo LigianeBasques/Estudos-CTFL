@@ -18,5 +18,9 @@ Para usar a técnica você vai precisar:
 
 Aplicando o método Pomodoro com um período de estudo de 2 horas, adaptei  os ciclos de acordo com minhas  necessidades.
 
-**Aqui** está uma maneira de dividir essas 2 horas em ciclos Pomodoro adaptados:
+**Aqui** **está** **uma** **maneira** **de** **dividir** **essas** **2** **horas** **em** **ciclos** **Pomodoro** **adaptados:**
+
+**Ciclo** **1:** **25** **minutos** **de** **estudo** **+** **5** **minutos** **de** **descanso**
+ + Estude por 25 minutos, focando intensamente na tarefa em questão;
+ + Faça uma pausa de 5 minutos para relaxar, esticar-se, tomar um pouco d'água ou fazer qualquer outra coisa que ajude a recarregar sua energia.
 
