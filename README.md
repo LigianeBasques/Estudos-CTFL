@@ -49,6 +49,14 @@ Assim sendo, você fecha seu ciclo de estudos!
 - [x] Porque é necessário testar?
 - [x] 7 principíos de teste
 - [x] Processo de software
-- [x] Psicologia do teste 
+- [x] Psicologia do teste
++ **Teste** **durante** **o** **ciclo** **de** **vida**
+- [x] Modelos de ciclo de vida
+- [x] Níveis de testes
+- [x] Tipos de teste
+- [x] Teste de manutenção
++ **Teste** **estático**
+- [x] Noções básicas
+- [x] Processo de revisão
    
 
