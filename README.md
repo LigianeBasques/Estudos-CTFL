@@ -38,8 +38,10 @@ Assim sendo, você fecha seu ciclo de estudos!
 - [ ] 1 - Assistir o preparatório da Iterasys ou de sua preferência;
 - [ ] 2 - Fazer anotações no caderno durante as vídeos aulas;
 - [ ] 3 - Lê o syllabus para fixar melhor o assunto;
-- [ ] 4 - Fazer a revisão de cada tópico estudado;
-- [ ] 5 - Fazer muitos simulados
- 
+- [ ] 4 - Lê e estudar o glossário de termos;
+- [ ] 5 - Fazer a revisão de cada tópico estudado;
+- [ ] 6 - Fazer muitos simulados.
+
+### 📘Conteúdo programático da prova da CTFL 3.1📘 ###
    
 
