@@ -18,5 +18,5 @@ Para usar a técnica você vai precisar:
 
 Aplicando o método Pomodoro com um período de estudo de 2 horas, adaptei  os ciclos de acordo com minhas  necessidades.
 
-** Aqui ** está uma maneira de dividir essas 2 horas em ciclos Pomodoro adaptados:
+**Aqui** está uma maneira de dividir essas 2 horas em ciclos Pomodoro adaptados:
 
