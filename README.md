@@ -58,11 +58,21 @@ Assim sendo, você fecha seu ciclo de estudos!
 + **Teste** **estático**
 - [x] Noções básicas
 - [x] Processo de revisão
-+ Técnicas de teste
++ **Técnicas** **de** **teste**
 - [x] Categorias de técnicas de testes
 - [x] Técnicas de teste caixa-preta
 - [x] Técnicas de teste caixa-branca
 - [x] Técnica de testes baseadas na experiência
++ **Gerenciamento** **de** **teste**
+- [x] Organização de teste
+- [x] Planejamento e estimativa de teste
+- [x] Monitoramento e controle de testes
+- [x] Gerenciamento de configurações
+- [x] Riscos e testes
+- [x] Gerenciamento de defeitos 
++ Ferramenta de suporte ao teste
+- [x] Considerações sobre as ferramentas de testes
+- [x] Uso efetivo de ferramentas
   
    
 
