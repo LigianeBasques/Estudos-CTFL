@@ -73,6 +73,10 @@ Assim sendo, você fecha seu ciclo de estudos!
 + **Ferramenta** **de** **suporte** **ao** **teste**
 - [x] Considerações sobre as ferramentas de testes
 - [x] Uso efetivo de ferramentas
+
+### ✏️Simulado de questões✏️ ###
+
+Simulado em desenvolvimento...em preve postarei aqui no repositório!
   
    
 
