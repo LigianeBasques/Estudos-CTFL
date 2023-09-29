@@ -43,5 +43,12 @@ Assim sendo, você fecha seu ciclo de estudos!
 - [ ] 6 - Fazer muitos simulados.
 
 ### 📘Conteúdo programático da prova da CTFL 3.1📘 ###
+
++ **Fundamentos** **de** **testes**
+- [x] O que é teste?
+- [x] Porque é necessário testar?
+- [x] 7 principíos de teste
+- [x] Processo de software
+- [x] Psicologia do teste 
    
 
