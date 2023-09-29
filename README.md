@@ -34,6 +34,12 @@ Aplicando o método Pomodoro com um período de estudo de 2 horas, adaptei  os c
 Assim sendo, você fecha seu ciclo de estudos!
 
 ### 📝Roteiro de estudos para a prova da CTFL📝 ###
+
+- [ ] 1 - Assistir o preparatório da Iterasys ou de sua preferência;
+- [ ] 2 - Fazer anotações no caderno durante as vídeos aulas;
+- [ ] 3 - Lê o syllabus para fixar melhor o assunto;
+- [ ] 4 - Fazer a revisão de cada tópico estudado;
+- [ ] 5 - Fazer muitos simulados
  
    
 
