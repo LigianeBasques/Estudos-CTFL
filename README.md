@@ -74,9 +74,7 @@ Assim sendo, você fecha seu ciclo de estudos!
 - [x] Considerações sobre as ferramentas de testes
 - [x] Uso efetivo de ferramentas
 
-### ✏️Simulado de questões✏️ ###
 
-Simulado em desenvolvimento...em breve postarei aqui no repositório!
   
    
 
