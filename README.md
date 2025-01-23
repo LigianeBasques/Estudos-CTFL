@@ -29,6 +29,7 @@ Aplicando o método Pomodoro com um período de estudo de 2 horas, adaptei  os c
  + Outros 5 minutos de pausa para descanso.
 
 **Ciclo** **3:** **25** **minutos** **de** **estudo** **+** **5** **minutos** **de** **descanso**
+
 **Ciclo** **4:** **25** **minutos** **de** **estudo** **+** **5** **minutos** **de** **descanso**
 
 Assim sendo, você fecha seu ciclo de estudos!
