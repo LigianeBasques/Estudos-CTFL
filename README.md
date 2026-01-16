@@ -5,7 +5,7 @@
 
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta| 
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | 
-| [9h~11h] |  CTFL | CTFL | CTFL | CTFL | CTFL |
+| [7h~8h/19h~20] |  CTFL | CTFL | CTFL | CTFL | CTFL |
 
 
 ### 🍅Técnica de estudos : Pomodoro🍅 ###
